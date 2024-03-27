@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+
+h3{
+    text-align: center;
+}
+
+table{
+    background-color: #d1edc9;
+  
+   height: 60%;
+    margin: 0 auto;
+    border: 1.5px inset;
+    border-spacing: 3px;
+}
+
+td,th{
+    
+    border: 1.5px inset;
+}
+
+.th1{
+    width: 25px;
+}
